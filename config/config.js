@@ -66,7 +66,7 @@ let config = {
 			module: "compliments",
 			position: "lower_third",
 			config: {
-				remoteFile: "https://drive.google.com/file/d/16ui-HHMYB0zcCXR0bvfEG2XlwTVuZfaE/view?usp=sharing"
+				remoteFile: "https://raw.githubusercontent.com/jmrcuellar/Magic-Mirror/master/config/dependency/compliments.json"
 			}
 		},
 		{
