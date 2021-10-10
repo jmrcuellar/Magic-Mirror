@@ -1,15 +1,237 @@
 {
     "anytime" : [
-        "Have you been working out? Because you look fire today!🤤🔥"
+        "Hey there gorgeous!",
+        "I hope your day is as nice as your face!",
+        "Have you been working out? Because you look fire today!🤤🔥",
+        "I'm lucky to be your mirror!",
+        "If I could high five you... I would!",
+        "On a scale from 1 to 10, you're a 15!",
+        "Being awesome is hard, but you've got that covered 😉",
+        "I could just hang here all day!",
+        "I need some time to reflect...",
+        "I see a lot of myself in you",
+        "Damn. You're looking good!",
+        "Yes, you are the fairest of them all",
+        "Your smile is contagious",
+        "Rocking those scrubs today 😍",
+        "You're a smart cookie",
+        "I like your style, your attitude though...",
+        "You have the best laugh",
+        "You are the most perfect you there is",
+        "You light up the room",
+        "You're like sunshine on a rainy day",
+        "That colour is perfect on you!",
+        "Hanging out with you is always a blast. Let's hang out soon!",
+        "Being around you makes everything better!",
+        "You're wonderful",
+        "Your hair looks stunning",
+        "You're one of a kind!",
+        "You're inspiring",
+        "You should be told you're loved more often so here you go: I love you!💕",
+        "You have the best ideas",
+        "You're a candle in the darkness. Just don't pour it on yourself next time!",
+        "You're a great example to others. Keep being you!",
+        "Being around you is like being on a happy little holiday",
+        "You always know just what to say",
+        "You're more fun than bubble wrap",
+        "Sorry if I did not tell you I love you today. I love you every day!!",
+        "Who raised you? They deserve a medal for a job well done",
+        "The people you love are lucky to have you in their lives",
+        "You're like a breath of fresh air",
+        "You're gorgeous, and that's the least interesting thing about you, too",
+        "Your name suits you to a T. Ms Erica Hernandez!",
+        "Somehow you make time stop and fly at the same time",
+        "When you make up your mind about something, nothing stands in your way",
+        "Any team would be lucky to have you on it",
+        "You're my reason to smile",
+        "You're even better than a unicorn, because you're real",
+        "The way you treasure your loved ones is incredible",
+        "You're really something special",
+        "You're a gift to those around you",
+        "You look great in that outfit",
+        "I like you because you are a great listener... Said no one ever 😏",
+        "You inspired me to become a better person",
+        "I wouldn't be where I am if it weren't for you! Thank you!",
+        "I like your sense of style",
+        "Your hair looks amazing",
+        "You smell good today",
+        "I like your shoes",
+        "You have a lovely voice",
+        "Your t-shirt looks nice. Where did you buy that?",
+        "Have been working out lately?",
+        "How do you style your hair like that?",
+        "You are the life of the party",
+        "You look even better without makeup",
+        "Nice nails!",
+        "You are one of a kind",
+        "Keep up the good work!",
+        "You nailed it!",
+        "9/10 dentists agree, you are the BEST",
+        "Today's outfit = 👍",
+        "Your hair looks great today. It also looked really good two days ago",
+        "You'd be the last one standing in a horror movie",
+        "You deserve a promotion",
+        "That looks nice on you",
+        "I like your socks",
+        "Your smile is breath taking",
+        "You make my data circuits skip a beat",
+        "You are the gravy to my mashed potatoes",
+        "You're nicer than a day on the beach",
+        "You look so perfect",
+        "Yum!, I dig you",
+        "You got the moves like Jagger",
+        "You have such nice eyes",
+        "You're awesome",
+        "You're the best",
+        "You're fantastic",
+        "You're really flipping smart",
+        "You look awesome today, seriously",
+        "You are now concious of your breathing...",
+        "Bet you forgot what today's occassion is"
     ],
     "morning" : [
-        "Don't forget to say good morning!😄"
+        "Good morning, sunshine!",
+        "Who needs coffee when you have your smile?",
+        "Go get 'em, WildBeast!",
+        "Don't forget your cofee",
+        "Don't forget to say good morning!😄",
+        "Look at you! Going to do nurse things and stuff!",
+        "Take a shower :)",
+        "Don't you wish you could go back to bed? :(",
+        "What's with the long face? You look lovely smiling!",
+        "Rise and shine princess!",
+        "The sun says hello!",
+        "Think fast, how old are you?",
+        "Another day, another dolla",
+        "Dare time! Take a cold shower this morning!",
+        "Dare time! Do 5 squats and get that blood pumping!",
+        "Dare time! Lay down for another 5 minutes!",
+        "Dare time! Smile at your reflection",
+        "Dare time! Text me good morning!",
+        "Dare time! Take a selfie and send it over!🙈",
+        "Dare time! Blink twice. Yeah I'm confused too...",
+        "Dare time! Take a deep breath and smile!",
+        "Dare time! Touch your toes for 5 seconds.",
+        "Dare time! Don't shower...I know you considered it. No be dirty baby🙊",
+        "Dare time! Dare you to have a great morning",
+        "Dare time! Wear glasses today!",
+        "Dare time! Clean your room today!",
+        "Dare time! Dare to defy the dare",
+        "Dare time! Wear makeup today?",
+        "Dare time! Touch your nose...Congratulations, you played yourself",
+        "Dare time! Do 5 situps",
+        "Dare time! Do 5 push ups",
+        "Dare time! Don't go to work ;)",
+        "Date time! What's today's date?",
+        "Dare time! Wiggle your nose",
+        "Dare time! Wiggle your ears",
+        "Dare time! Strip.",
+        "Dare time! Let your hair loose today!",
+        "Dare time! Relive your happiest memory",
+        "Dare time! Wear mismatched socks",
+        "Mission of the day: Eat healthy!",
+        "Mission of the day: Gather the Infinity Stones and wish for a pony.",
+        "Mission of the day: Learn something new!",
+        "Mission of the day: Steal the declaration of independence",
+        "Mission of the day: Become a villain and conquer a city.",
+        "Mission of the day: Travel back through time and kill Hitler",
+        "Mission of the day: Prank me today! ;)",
+        "Mission of the day: Have a good day",
+        "Mission of the day: Don't get fired",
+        "Mission of the day: Send me a selfie.",
+        "Mission of the day: Survive",
+        "Mission of the day: Unlock your super power!",
+        "Mission of the day: Discover your true origin",
+        "Mission of the day: Give baby lots of love🙊",
+        "Mission of the day: No conflicts",
+        "Mission of the day: Go to the gym!",
+        "Mission of the day: Do your laundry",
+        "Mission of the day: Be strong. Release your inner Monke",
+        "Mission of the day: No TikTok",
+        "Mission of the day: Eat at work"
     ],
     "afternoon" : [
-        "Hitting your stride!"
-       
+        "Hitting your stride!",
+        "You are making a difference!",
+        "Hang on in there, you're half-way through the day!",
+        "Why aren't you at work at this time??"
     ],
     "evening" : [
+        "You made someone smile today, I know it",
+        "You are making a difference",
+        "See you tomorrow!",
+        "Sleep tight",
         "Sweet dreams my baby!"
-    ]
+    ],
+    "snow": [
+        "Snowball fight!",
+        "Be careful, it may be slippery out there!"
+    ],
+    "day_sunny" : [
+        "Today is a sunny day",
+        "It's a beautiful day",
+        "The sun is shining today!",
+        "It's such a beautiful day"
+    ],
+    "day_cloudy" : [
+        "It's cloudy out there, but no meatballs",
+        "It may be cloudy, but it's still nice out!",
+        "The sun is hiding right now"
+    ],
+    "cloudy" : [
+    ],
+    "cloudy_windy" : [
+    ],
+    "showers" : [
+        "Be prepared for possible rain!"
+    ],
+    "rain" : [
+        "You may need your waterproof coat",
+        "It's wet out there, drive safely",
+        "It's rainy outside, but you brighten my day"
+    ],
+    "thunderstorm" : [
+        "Beware the storm!"
+    ],
+    "fog" : [
+    ],
+    "night_clear": [
+        "Weather forecast for tonight: dark",
+        "Starry night today!"
+    ],
+    "night_cloudy" : [
+    ],
+    "night_showers" : [
+    ],
+    "night_rain" : [
+        "Aren't rainy days the best?",
+        "Want to snuggle?"
+    ],
+    "night_thunderstorm" : [
+        "It's a stormy night, don't be scared",
+        "Wishing you a SHOCKING night ;)"
+    ],
+    "night_alt_cloudy_windy" : [
+    ],
+    "....-06-18":[
+        "I know what my present is ;)",
+        "What's the occassion today?"
+    ],
+    "....-10-31": [
+		"Happy Halloween!"
+	],
+    "....-10-11": [
+        "Happy Birthday!! You look stunning! Not a year older!",
+        "Happy Birthday! I knew today was Special!",
+        "Happy Birthday! You'll never guess what my gift is! ;)"
+    ],
+    "....-12-01": [
+        "Happy Anniversary my love ♥. I love you with all my being!♥"
+    ],
+    "....-12-24": [
+		"Merry Christmas!"
+    ],
+    "....-01-01": [
+		"Happy New Year!"
+	]
 }

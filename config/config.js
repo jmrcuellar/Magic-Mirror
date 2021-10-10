@@ -66,6 +66,9 @@ let config = {
 			module: "compliments",
 			position: "lower_third",
 			config: {
+				updateInterval: 14400000 , //Every 4 hours
+				morningEndTime: 14,
+				afternoonStartTime: 14,
 				remoteFile: "https://raw.githubusercontent.com/jmrcuellar/Magic-Mirror/master/config/dependency/compliments.json"
 			}
 		},
