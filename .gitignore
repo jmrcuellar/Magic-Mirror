@@ -58,8 +58,8 @@ Temporary Items
 .directory
 .Trash-*
 
-# Ignore all modules except the default modules.
-/modules/**
+#ignore google credentials
+modules/**/credentials.json
 !/modules/default
 !/modules/default/**
 !/modules/README.md**
