@@ -152,8 +152,8 @@ let config = {
 			module: "MMM-GooglePhotos",
 			position: "fullscreen_below",
 			config: {
-				albums: ["11 days in California"], // Set your album name. like ["My wedding", "family share", "Travle to Paris"]
-				updateInterval: 1000 * 60, // minimum 10 seconds.
+				albums: ["Magic Mirror"], // Set your album name. like ["My wedding", "family share", "Travle to Paris"]
+				updateInterval: 86400000, // Every 24 hours fetch a new one.
 				sort: "random", // "old", "random"
 				uploadAlbum: null, // Only album created by `create_uploadable_album.js`.
 				condition: {
@@ -172,7 +172,78 @@ let config = {
 				timeFormat: "YYYY/MM/DD HH:mm", // Or `relative` can be used.
 			  }
 		},
-		/*{
+		{
+			module: "MMM-Traffic",
+			position: "top_left",
+			config: {
+				firstLine: "{duration} mins",
+				secondLine: "Traffic to Work",
+				accessToken: "pk.eyJ1IjoianJlY2lub3MiLCJhIjoiY2t1bWUzNmxsM3FoejJvcWxtdHRqbndjcSJ9.P1bVqKGKhEJfAwr_cUTA_Q",
+				//Coordinates must be inputed as Longitude,longitude (reverse order from google maps)
+				originCoords: "-118.466753,34.175497", //Target, Sepulveda
+				destinationCoords: "-118.485494,34.025318", //BeachWood
+				days: [1,2,3,4,5],
+				hoursStart: "04:30",
+				hoursEnd: "07:30"
+			}
+		},
+		{
+			module: "MMM-Traffic",
+			position: "top_left",
+			config: {
+				firstLine: "{duration} mins",
+				secondLine: "Traffic to Baby",
+				accessToken: "pk.eyJ1IjoianJlY2lub3MiLCJhIjoiY2t1bWUzNmxsM3FoejJvcWxtdHRqbndjcSJ9.P1bVqKGKhEJfAwr_cUTA_Q",
+				originCoords: "-118.46675356111979,34.175497370327214", //Target, Sepulveda
+				destinationCoords: "-118.42951941843046,34.20717903787753", // Home
+				days: [6,0],
+				interval: 600000, //10 mins
+				hoursStart: "09:00",
+				hoursEnd: "2:00"
+			}
+		},
+		{
+		    module: 'MMM-connection-status',
+		    header: "Internet Connection",
+		    position: 'top_left', // Or any valid MagicMirror position.
+		    config: {
+		        // See 'Configuration options' for more information.
+		    }
+		},
+		{
+			module: "MMM-Reddit",
+			position: "bottom_left",
+			header: "Nature Pics",
+			config: {
+				subreddit: ['EarthPorn', "funny"],
+				displayType: 'image',
+				imageQuality: 'high',
+				count: 20,
+				rotateInterval: 90, //seconds
+				show: 1,
+				width: 500,
+				showAll: true,
+				colorText: true,
+				titleReplacements: [{toReplace: 'porn', replacement: '', caseSensitive: 'false'}],
+				showNumComments: false,
+				showScore: false,
+				showRank: false
+			}
+		},
+			
+		/*
+		{
+			module: 'MMM-iFrame',
+			position: 'bottom_bar',	// This can be any of the regions.
+			config: {
+				// See 'Configuration options' for more information.
+					url: ["ENTER IN URL", "ENTER IN URL2"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
+					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
+					width: "1280", // width of iframe
+					height: "720", // height of iframe
+					frameWidth: "400" // width of embedded iframe, height is beeing calculated by aspect ratio of iframe
+				}
+		}{
 			module: 'MMM-BackgroundSlideshow',
 		    position: 'fullscreen_below',
 		    config: {

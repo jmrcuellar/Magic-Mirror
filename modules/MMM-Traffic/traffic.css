@@ -1,0 +1,19 @@
+.symbol {
+  margin-right: 15px;
+}
+
+.green {
+  color: #83ffb3;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.red {
+  color: #ff4c4c;
+}
+
+#detailedSummary td {
+  padding-right: 10px;
+}
